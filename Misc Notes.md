@@ -19,3 +19,5 @@
 - sulphonamide component of co-trimoxazole were to displace warfarin from its plasma-protein, the risk of adverse effects and toxicity will transiently increase.
 
 - phenytoin, salicylates and ethanol is dependent on saturable enzymatic processes
+
+- parenteral morphine is half the oral dose
