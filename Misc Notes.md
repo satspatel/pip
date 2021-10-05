@@ -16,6 +16,8 @@
 
 - SSRIs can cause insomnia when taken at night
 
+- SSRIs are relatively safe in overdose.
+
 - A modified release formulation of metformin could be considered to see if this reduces GI adverse-effects
 
 - Phenytoin induces the metabolism of other drugs and can reduce their serum/plasma concentration.
