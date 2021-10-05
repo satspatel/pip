@@ -1,5 +1,9 @@
 # Misc Notes
 
+## Other Script Modules
+
+- 'Parenteral Poisons' and 'Toxic Tablets'
+
 ## Pharmacology
 
 - [ ] Learn about Antimuscarinic burden on older people
