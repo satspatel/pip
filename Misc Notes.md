@@ -8,6 +8,10 @@
 
 - [ ] Learn about Antimuscarinic burden on older people
 
+- [ ] whats HFrEF
+
+- [ ] sick day guidance for sglt2 inhibitors and metformin
+
 - Oxybutynin is an antimuscarinic medicine, the adverse effects of which include dry mouth, constipation, blurred vision and occasionally cognitive impairment.
 
 - Statins can cause muscle effects like myalgia
