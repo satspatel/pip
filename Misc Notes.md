@@ -4,6 +4,8 @@
 
 - 'Parenteral Poisons' and 'Toxic Tablets'
 
+- [videos on consultation](https://teaching.shu.ac.uk/hwb/hwbtel/resources/team/CPS/story_html5.html)
+
 ## Pharmacology
 
 - [ ] Learn about Antimuscarinic burden on older people
