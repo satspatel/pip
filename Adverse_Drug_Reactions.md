@@ -44,7 +44,7 @@
 ## Rawlins and Thomson classifications
 
 | Type | Name | Features | Example |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | A | Augmented | Dose-related<br>Common, predictable<br>Related to the pharmacology<br>Unlikely to be fatal | Digoxin Toxicity<br>Opioid Constipation |
 | B | Bizarre | Not dose-related (within the therapeutic dose range)<br>Uncommon, unpredictable<br>Not related to the pharmacology<br>Often fatal | Penicillin hypersensitivity<br>Malignant hyperthermia and hepatitis caused by anaesthetic agents |
 | C | Chronic | Uncommon<br>Related to cumulative dose<br>Time-related | Suppression to the hypothalamic pituitary adrenal axis with long-term corticosteroids |
