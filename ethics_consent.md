@@ -18,3 +18,12 @@
 - Describe the process of assessing capacity and how it is affected by the Mental Capacity Act 2005.
 - Understand how the principles of consent may differ depending on the circumstances.
 - Recall the [GMC guidance on ethical issues and consent](https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/decision-making-and-consent).
+
+## Session Key Points
+
+- For an adult patient to consent to treatment, you are required to provide information on the common or known serious adverse-effects or risks of medication.
+- You should do your best to make sure that the patient has considered all the available options and reached their own decision.
+- All professional staff involved in the care and treatment of an adult person who may lack capacity must keep a record of long-term or significant decisions made about mental capacity.
+- No one else can make a decision on behalf of an adult who has capacity.
+- Every competent patient has the right to refuse or consent to medical treatment including prescription medication. You must respect a patient's decision to refuse treatment even if you think their decision is wrong or irrational.
+- GMC guidance states that you should not treat patients that you are close to.
