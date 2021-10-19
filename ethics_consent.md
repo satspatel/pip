@@ -11,3 +11,10 @@
 | warfarin wife asking to say alcohol forbidden | witholding information ok if in best interests<br>wife is acting in best interests, let her tell patient it's forbidden<br>should not withold unless giving will cause serious harm - in this instance it may cause harm so withold<br>should not withold unless giving will cause serious harm. Patient may become upset or refuse treatment so withold | third | | |
 | true for those that lack capacity | if permanent no need to review<br>view of relatives only considered if legal authority<br>consultant makes overiding decision in MDT<br>any preferences/beliefs before lack of capacity should be takien into account | last option | | |
 | you ask for keys to get co-codamol 30/500| OTC so self medicating ok<br>POM but as prescriber you can self dispense<br>POM only self medicate if keeps you at work<br>POM but you need a prescription | Need a prescription | | |
+
+## Outcomes
+
+- Discuss the principles and processes of gaining consent for adult patients.
+- Describe the process of assessing capacity and how it is affected by the Mental Capacity Act 2005.
+- Understand how the principles of consent may differ depending on the circumstances.
+- Recall the [GMC guidance on ethical issues and consent](https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/decision-making-and-consent).
