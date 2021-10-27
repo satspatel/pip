@@ -31,7 +31,7 @@ So I can learn how to use markdown
 | Prescribing in pregnancy |||
 | Prescribing in breastfeeding |||
 | Dementia friendly prescribing |||
-| Respiratory medicine |||
+| Respiratory medicine | Yes | 27/10/2021 |
 | Management of Pain |||
 | Rational Drug Choice |||
 | Ethics and Consent | Yes | 23/10/2021 |
