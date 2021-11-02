@@ -51,3 +51,60 @@ Increased systemic exposure due to reduced liver blood flow.
 
 ### Metabolism
 
+Liver function: a decline in the activity of cytochrome P450 enzymes occurs with age.  Hepatic mass also declines with age so metabolism of many drugs with low intrinsic clearance will be reduced.
+ 
+Hepatic blood flow: a decline in hepatic blood flow of about 35% occurs in people over the age of 65. For drugs that have a high hepatic extraction ratio (e.g. labetalol, morphine, nifedipine and propranolol), the decline in hepatic blood flow means a reduction in systemic clearance. Simultaneously, their extent of systemic absorption may be increased due to a decrease in first-pass metabolism.
+ 
+- Phase 1 reactions may reduce with age.
+- Phase 2 reactions are not thought to be affected by age.The actions of drugs such as diazepam may be prolonged in the older adult because of increased distribution to fat and also reduced excretion of the active metabolite desmethyldiazepam.
+- Other benzodiazepines such as lorazepam undergo phase 2 reactions only, so metabolism is unaltered by age.
+
+### Excretion
+
+> In practice it is this decline in renal function that is the major pharmacokinetic determinant of toxicity in older adult patients.  
+
+Cockroft-Gault should be used to estimate renal function in patients with extremes of weight, catabolic states and in older adults with reduced muscle mass. eGFR is suitable otherwise.
+
+## Phamacodynamics
+
+![Pharmacodynamic Changes](Images/PharmacodynamicChanges.jpg)
+
+### Postural Control
+
+Postural Hypotension typically caused by blunted reflex tachycardia.
+
+Review medication regularly, and monitor supine and standing blood pressure. A postural drop of ≥ 20 mmHg in systolic pressure which is causing orthostatic symptoms suggests that the treatment may need to be titrated to the standing value.
+
+Drugs that can have an impact include:
+
+- Alpha-blockers
+- Antihypertensives (e.g. calcium-channel blockers or ACE inhibitors)
+- Antidepressants
+- Beta-blockers
+- Diuretics
+- Hypnotics
+- Nitrates
+
+### Body Temperature
+
+Thermoregulation can be impaired in some older adults. Drugs can increase the risk of hypothermia if they:
+
+| | |
+| --- | --- | 
+| Cause sedation| Benzodiazepines<br>Tricyclic antidepressants (TCAs)<br>Opioid analgesics | 
+| Impair awareness of temperature| Chlorpromazine | 
+| Decrease mobility| Antipsychotics<br>Antiparkinsonian drugs<br>Hypnotics | 
+| Cause vasodilatation| Vasodilator antihypertensives (e.g. amlodipine) |
+
+### Cognition
+
+Older adults have a reduction in acetyltransferase and cholinergic cell numbers, thereby affecting cognition. Drugs which cause confusion can affect cognition further, and should be avoided where possible:
+ 
+- Anticholinergics
+- Antihistamines
+- Beta-blockers
+- Hypnotics
+- Opioid analgesics
+- Tricyclic antidepressants
+
+## Averse Drug Reactions
