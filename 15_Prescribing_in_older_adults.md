@@ -107,4 +107,11 @@ Older adults have a reduction in acetyltransferase and cholinergic cell numbers,
 - Opioid analgesics
 - Tricyclic antidepressants
 
-## Averse Drug Reactions
+## Adverse Drug Reactions
+
+| Drug class | Details |
+| --- | --- |
+| Antimuscarinics | Antimuscarinics (or drugs with antimuscarinic effects) such tricyclic antidepressants and antispasmodics. Common ADRs include:<br>Memory loss<br>Urinary retention<br>Constipation<br>Exacerbation of glaucoma |
+| Hypnotics/anxiolytics | Hypnotics/anxiolytics such as diazepam, lorazepam and zopiclone. Common ADRs include:<br>Falls<br>Confusion<br>Postural hypotension |
+| NSAIDs | NSAIDs such as diclofenac and ibuprofen. Common ADRs include:<br>Gastrointestinal bleeding<br>Fluid retention |
+| Opioids | Opioid analgesics such as codeine, dihydrocodeine and morphine sulfate. Common ADRs include:<br>Constipation<br>Drowsiness<br>Falls |
