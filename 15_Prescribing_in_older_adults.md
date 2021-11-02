@@ -2,16 +2,16 @@
 
 | Question | Options | Pre-response | Reading | Final |
 | --- | --- | --- | ---| --- |
-| If no contraindications patients over 65 should recieve the following | Annual flu vax<br>Annual flu and meningococcal C<br>Annual flu and single dose pneumococcal<br>Annual flu, pneumococcal and meningococcal C<br>Annual flu and pneumococcal | Annual flu | | |
-| Correct statements about Tricyclics | TCAs *improve* cognitive impairment<br>TCAs reduce intraocular pressure in glaucoma<br>TCAs worsen diarrhoea<br>TCAs reduce QT interval<br>TCAs cause urinary retention | Urinary retention | | |
-| Physiological changes affecting drug handling - Correct statement | Reduced total body water, increases volume of distribution of water-soluble drugs like digoxin<br>Increased body fat, decreases volume of distribution of fat soluble drugs like diazepam<br>Steady decline in GFR so renally excreted drugs may accumulate<br>decrease in plasma-albumin concentration decreasing concentration of unbound free drug for therapeutic effect | GFR | GFR | |
-| Long term pred. What should be added | Bisphosphonate<br>Fludorcortisone<br>H2-receptor antagonist<br>Metformin<br>PPI | PPI | | |
-| 70 yr female on amlodipine 5mg om, diclofenac 50mg tds, sertraline 100mg om and atorvastatin 20mg od, correct statement | For long-term gout NSAID is right option<br>for long-term allopurinol<br>for long term colchicine is first line<br>PPI should be added for GI protection | allopurinol | | |
-| 70 yr old gout female gets admited with peptic ulcer, correct statement | PPI whilst on long term NSAID if no alternative treatment<br>NSAID plus atorvastatin increases risk of bleeding<br>Atorvastatin commonly causes GI events<br>Switch to COX-2 selective inhibitor for this patient given GI complications | PPI | | |
-| 85 yr female A&E for fall. Falls when getting out of chair. On indapamide 2.5mg om, citalopram 20mg on, docusate 100mg bd, hydroxyzine 25mg on, losartan 25mg om, oxybutynin MR 5mg om, simvastatin 40mg on, aspirin 75mg om, trimethoprim 100mg on, zopiclone 7.5mg on. Which management plan is *not* appropriate | Start betahistine 16mg tds<br>Take sitting and standing BP<br>Change citalopram to morning<br>Change zopiclone to prn<br>Stop or change hydroxyzine to non-sedating | start betahistine | | |
-| 75 yr old female low mood and fatigue. On amiodarone 200mg od, atorvastatin 10mg on, aspirin 75mg om, adcal-d3 ii om, alendronate 70mg weekly. Thinking of starting antidepresant - what to recommend | Check TFTs before starting<br>SSRI and review in 6/52<br>TCA and review in 6/52<br>Refer to psychologist<br>Stop amiodarone | Check TFTs | | |
-| Screening Tool of Older People's potentially inappropriate Prescriptions (STOPP) criteria used in > 65 yr. Which is part of criteria | Stop warfarin for first uncomplicated DVT for longer than 6 months<br>Stop and review LT aspirin doses > 75mg od<br>Stop and review digoxin > 125 micrograms/day with impaired hepatic<br>Stop ACEi following acute MI<br>Stop verapamil in NYHA Class II heart failure | Aspirin | | |
-| Medicine *least* likely to affect cognition | Aciclovir<br>Chlorphenamine<br>Codeine<br>Diazepam<br>Promethazine | Aciclovir | | |
+| If no contraindications patients over 65 should recieve the following | Annual flu vax<br>Annual flu and meningococcal C<br>Annual flu and single dose pneumococcal<br>Annual flu, pneumococcal and meningococcal C<br>Annual flu and pneumococcal | Annual flu | | Annual flu and single pneumococcal START criteria|
+| Correct statements about Tricyclics | TCAs *improve* cognitive impairment<br>TCAs reduce intraocular pressure in glaucoma<br>TCAs worsen diarrhoea<br>TCAs reduce QT interval<br>TCAs cause urinary retention | Urinary retention | Urinary Retention | Urinary Retention |
+| Physiological changes affecting drug handling - Correct statement | Reduced total body water, increases volume of distribution of water-soluble drugs like digoxin<br>Increased body fat, decreases volume of distribution of fat soluble drugs like diazepam<br>Steady decline in GFR so renally excreted drugs may accumulate<br>decrease in plasma-albumin concentration decreasing concentration of unbound free drug for therapeutic effect | GFR | GFR | GFR |
+| 68 yr female on Long term pred. What should be added | Bisphosphonate<br>Fludorcortisone<br>H2-receptor antagonist<br>Metformin<br>PPI | PPI | | Bisphosphonate START |
+| 70 yr female on amlodipine 5mg om, diclofenac 50mg tds, sertraline 100mg om and atorvastatin 20mg od, correct statement | For long-term gout NSAID is right option<br>for long-term allopurinol<br>for long term colchicine is first line<br>PPI should be added for GI protection | allopurinol | | Allopurinol |
+| 70 yr old gout female gets admited with peptic ulcer, correct statement | PPI whilst on long term NSAID if no alternative treatment<br>NSAID plus atorvastatin increases risk of bleeding<br>Atorvastatin commonly causes GI events<br>Switch to COX-2 selective inhibitor for this patient given GI complications | PPI | | PPI |
+| 85 yr female A&E for fall. Falls when getting out of chair. On indapamide 2.5mg om, citalopram 20mg on, docusate 100mg bd, hydroxyzine 25mg on, losartan 25mg om, oxybutynin MR 5mg om, simvastatin 40mg on, aspirin 75mg om, trimethoprim 100mg on, zopiclone 7.5mg on. Which management plan is *not* appropriate | Start betahistine 16mg tds<br>Take sitting and standing BP<br>Change citalopram to morning<br>Change zopiclone to prn<br>Stop or change hydroxyzine to non-sedating | start betahistine | | Betahistine |
+| 75 yr old female low mood and fatigue. On amiodarone 200mg od, atorvastatin 10mg on, aspirin 75mg om, adcal-d3 ii om, alendronate 70mg weekly. Thinking of starting antidepresant - what to recommend | Check TFTs before starting<br>SSRI and review in 6/52<br>TCA and review in 6/52<br>Refer to psychologist<br>Stop amiodarone | Check TFTs | | TFTs |
+| Screening Tool of Older People's potentially inappropriate Prescriptions (STOPP) criteria used in > 65 yr. Which is part of criteria | Stop warfarin for first uncomplicated DVT for longer than 6 months<br>Stop and review LT aspirin doses > 75mg od<br>Stop and review digoxin > 125 micrograms/day with impaired hepatic<br>Stop ACEi following acute MI<br>Stop verapamil in NYHA Class II heart failure | Aspirin | Warfarin | Warfarin |
+| Medicine *least* likely to affect cognition | Aciclovir<br>Chlorphenamine<br>Codeine<br>Diazepam<br>Promethazine | Aciclovir | | Aciclovir |
 
 70%
 
@@ -115,3 +115,70 @@ Older adults have a reduction in acetyltransferase and cholinergic cell numbers,
 | Hypnotics/anxiolytics | Hypnotics/anxiolytics such as diazepam, lorazepam and zopiclone. Common ADRs include:<br>Falls<br>Confusion<br>Postural hypotension |
 | NSAIDs | NSAIDs such as diclofenac and ibuprofen. Common ADRs include:<br>Gastrointestinal bleeding<br>Fluid retention |
 | Opioids | Opioid analgesics such as codeine, dihydrocodeine and morphine sulfate. Common ADRs include:<br>Constipation<br>Drowsiness<br>Falls |
+
+## Adherence
+
+| Reason | Details |
+| --- | --- |
+| Adverse Effects | If the patient is suffering from adverse effects as a result of the treatment, they are less likely to adhere to the prescribed regimen.<br>Anticipate adverse effects and counsel the patient about what to expect and any appropriate management advice.<br>Check for intentional non-adherence as a result of adverse effects. |
+| Cognitive impairment | Cognitive impairment may mean that patients forget to take their medicines, or take their dose more often than recommended.<br>Avoid medicines known to cause confusion. |
+| Complex Regimens | Complex treatment regimens can be confusing for the patient.<br>Simplify regimens as much as possible.<br>Balance the risk and benefits of prescribing complex regimens (e.g. warfarin). |
+| Depression | Depression may be associated with changes in cognition or motivation, resulting in the patient forgetting to take their medicines. |
+| Physical Impairment | Impaired vision, painful or stiff hands and poor mobility can all impact on adherence. Patients may struggle to see what medicines they are taking. In addition, they may have difficulty reaching their medicines or opening containers which can increase the risk of administration error.<br>Arrange for relatives or carers to assist with administration.<br>Where appropriate, arrange for multi-compartment compliance aids. |
+
+### Practical Aspects
+
+| Aspect | Details |
+| --- | --- |
+| Obtaining | Is your patient unable to collect their prescriptions?<br>Is your patient ordering too many drugs from the GP?<br>Collection services are available whereby the community pharmacy will collect the prescription from the GP, dispense it, and may deliver it to the patient's door.<br>Repeat prescription requests help avoid delays in obtaining medicines. |
+| Administration | Is your patient experiencing problems opening 'child resistant' caps?<br>Tablets can be dispensed in containers without child resistant caps if necessary.<br>Is your patient struggling with blister packaging of tablets/capsules?<br>You might consider a Monitored Dosage System (MDS) for the patient; remember they will need to be assessed first.  They can make complex regimens simpler and can serve as a useful reminder, but the patient must be competent with using it.<br>Does your patient have swallowing difficulties that may affect adherence?<br>A change in formulation may be needed (i.e. orodispersible tablets, liquid).<br>Liquids may need to be thickened to enable administration.<br>Is your patient getting confused when to take what?<br>Medicines Reminder Charts can be helpful.<br>An MDS can also be useful. |
+| Instructions | Does your patient understand what they are taking, and why?<br>Can your patient read the instruction label on the medication?<br>Large print labels are available. |
+
+## STOPP and START
+
+### Screening Tool of Older Persons’ Prescriptions
+
+Prescriptions that are potentially inappropriate to use in patients aged 65 years and older
+
+Section A: Indication of medication
+
+1. Any drug prescribed without an evidence-based clinical indication.
+2. Any drug prescribed beyond the recommended duration, where treatment duration is well defined.
+3. Any duplicate drug class prescription e.g. two concurrent NSAIDs, SSRIs, loop diuretics, ACE inhibitors, anticoagulants (optimisation of monotherapy within a single drug class should be observed prior to considering a new agent).
+
+[STOPP Criteria](Images/STOPP+Criteria.pdf)
+
+### Screening Tool to Alert to Right Treatment
+
+Unless an elderly patient’s clinical status is end-of-life and therefore requiring a more palliative focus of pharmacotherapy, the following drug therapies should be considered where omitted for no valid clinical reason(s). It is assumed that the prescriber observes all the specific contraindications to these drug therapies prior to recommending them to older patients.
+
+[START Criteria](Images/START+Criteria.pdf)
+
+## Safe Prescribing
+
+Remember the following when prescribing for the older adult patient.
+ 
+- Before starting treatment with any medicine, ensure a correct diagnosis has been made and an accurate drug history has been taken.
+- Use doses that are recommended for the elderly; a smaller dose than normal may be appropriate to start with.
+- State the duration of treatment.
+- Before starting a new treatment, be sure that the symptom is not an adverse effect of one of the medicines already being taken.
+- Regularly review long-term therapy and simplify medication regimens where possible.
+- Avoid medicines which are known to cause adverse effects in the older adult patient.
+- Monitor your patient and drug treatment for adverse drug reactions, therapeutic effect and sub-therapeutic effects.
+- Assist with adherence to treatment regimens (explain why the medicines are necessary, and what adverse effects may occur) – involve relatives and carers where appropriate. Avoid using ‘as directed’ so patients are provided with medicines that are labelled with full instructions.
+
+![Master](Images/MASTER.jpg)
+
+## References
+
+Gallagher. P., O'Mahony. D. STOPP (Screening Tool of Older Persons' potentially inappropriate Prescriptions): application to acutely ill elderly patients and comparison with Beers' criteria. Age & Ageing (2008); 37:673-9.
+ 
+Hamilton JH, Gallagher PF, O'Mahony D. Inappropriate prescribing and adverse drug events in older people. BMC Geriatrics. (2009): 9;(5).
+ 
+Department of Health and Social Care (2001). Medicines and older people. Implementing medicines-related aspects of the NSF for older people. Available online at  https://www.gov.uk/government/publications/quality-standards-for-care-services-for-older-people
+ 
+National Institute for Health and Care Excellence (2015). Quality Standard [QS86]. Falls in older people: assessment after a fall and preventing further falls.  Available online at http://www.nice.org.uk/guidance/qs86
+ 
+National Patient Safety Agency (2007). Safety in Doses. Improving the use of medicines in the NHS. Available online at http://www.nrls.npsa.nhs.uk/resources/?entryid45=61625
+ 
+The Kings Fund (2013). Polypharmacy and medicines optimisation: Making it safe and sound.  Available online at http://www.kingsfund.org.uk/publications/polypharmacy-and-medicines-optimisation
