@@ -29,7 +29,7 @@ So I can learn how to use markdown
 | Prescribing in hepatic dysfunction | Yes | 24/10/2021 |
 | Prescribing in older adults | Yes | 2/11/2021 |
 | Prescribing in pregnancy |||
-| Prescribing in breastfeeding |||
+| Prescribing in breastfeeding | Yes | 3/11/2021 |
 | Dementia friendly prescribing |||
 | Respiratory medicine | Yes | 27/10/2021 |
 | Management of Pain |||
@@ -42,4 +42,4 @@ So I can learn how to use markdown
 | Safe Guarding in Children - level 1<br>(access via ELH) |||
 | Data Security Awareness - level 1<br>(access via ELH) |||
 | Shared decision making SDM 01<br>(access via ELH) |||
-| Health Economics and Prioritisation in Public Health<br>(both packages)<br>(access via ELH) | 
+| Health Economics and Prioritisation in Public Health<br>(both packages)<br>(access via ELH) |||
