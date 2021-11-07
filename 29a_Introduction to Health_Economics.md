@@ -1,6 +1,17 @@
-# Health Economics
+# Introduction Health Economics
 
 ## Key points
+
+1. Health economics is all about trying to mitigate scarcity and improve health as much as possible with limited resources.
+1. Resources are limited, so we must make choices .
+1. Opportunity cost helps us frame discussions so that the trade-offs are clear.
+1. Improving value for money, or cost-effectiveness, takes two important forms – technical efficiency and allocative efficiency.
+1. Technical efficiency is about achieving the most health with the resources we dedicate to a programme area.
+1. Allocative efficiency involves moving resources between healthcare programmes. Moving resources has to take into account non-linear relationships, so it is important to consider the marginal change in cost and effects.
+
+ 
+
+But health economics is only one consideration when deciding how best to use resources. Equity is also important.
 
 - Health economics helps to inform how best to use healthcare resources
 - Considering opportunity cost is important to understanding whether we are making the right choices
@@ -111,3 +122,5 @@ General reading
 [Public Health England. Health economics: a guide for public health teams.](https://www.gov.uk/guidance/health-economics-a-guide-for-public-health-teams) View website
 
 [Health Knowledge. 4d - Health Economics.](https://www.healthknowledge.org.uk/public-health-textbook/medical-sociology-policy-economics/4d-health-economics) View website
+
+[Healthy People](https://www.healthypeople.gov/)

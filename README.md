@@ -42,4 +42,4 @@ So I can learn how to use markdown
 | 26 | Safe Guarding in Children - level 1<br>(access via ELH) |||
 | 27 | Data Security Awareness - level 1<br>(access via ELH) |||
 | 28 | Shared decision making SDM 01<br>(access via ELH) |||
-| 29 | Health Economics and Prioritisation in Public Health<br>(both packages)<br>(access via ELH) |||
+| 29 | Health Economics and Prioritisation in Public Health<br>(both packages)<br>(access via ELH) | Yes | 7/11/2021 |
