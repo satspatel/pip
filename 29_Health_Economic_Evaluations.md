@@ -124,14 +124,25 @@ PHE look at cost-benefit analysis and put a QALY of £60,000
 ## References
 
 [PHE fingertips](https://fingertips.phe.org.uk)
+
 [DoH Policy Appraisal and Health](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/191503/policy_appraisal_and_health.pdf)
+
 [HM Treasury. The Green Book: appraisal and evaluation in central government. 2013](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent)
+
 [Simoens S. Health Economic Assessment: A Methodological Primer. 2009. U.S. National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800325/)
+
 [Health Knowledge. Techniques of economic appraisal (including cost-effectiveness analysis and modelling, cost-utility analysis, option appraisal and cost-benefit analysis, the measurement of health benefits in terms of QALYs and related measures e.g. DALYs)](https://www.healthknowledge.org.uk/public-health-textbook/medical-sociology-policy-economics/4d-health-economics/economic-appraisal)
+
 [Weinstein MC, Torrance G, McGuire A. QALYs: The Basics](https://www.ispor.org/meetings/Invitational/QALY/Paper2revised.PDF)
+
 [Phillips C, Thompson G. What is a QALY?](http://www.vhpharmsci.com/decisionmaking/Therapeutic_Decision_Making/Advanced_files/What%20is%20a%20QALY.pdf)
+
 [York Health Economics Consortium. Perspective](http://www.yhec.co.uk/glossary/perspective/)
+
 [Torgerson DJ , Raftery J. Discounting. 1999. U.S. National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1116731/)
+
 [Public Health England. Health economics: a guide for public health teams. 2017](https://www.gov.uk/guidance/health-economics-a-guide-for-public-health-teams)
+
 [National Information Center on Health Services Research and Health Care Technology (NICHSR). Health Economics Information Resources: A Self-Study Course](https://www.nlm.nih.gov/nichsr/edu/healthecon/04_he_03.html)
+
 
