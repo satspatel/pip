@@ -28,7 +28,7 @@ So I can learn how to use markdown
 | 12 | Drug interactions | Yes | 23/10/2021 |
 | 13 | Prescribing in hepatic dysfunction | Yes | 24/10/2021 |
 | 14 | Prescribing in older adults | Yes | 2/11/2021 |
-| 15 | Prescribing in pregnancy |||
+| 15 | Prescribing in pregnancy | Yes | 14/11/2021 |
 | 16 | Prescribing in breastfeeding | Yes | 3/11/2021 |
 | 17 | Dementia friendly prescribing |||
 | 18 | Respiratory medicine | Yes | 27/10/2021 |
