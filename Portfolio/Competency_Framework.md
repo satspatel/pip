@@ -119,7 +119,7 @@
 
 ## 10. Prescribe as part of a team
 
-
+|||
 | --- | --- |
 | 10.1 | Works collaboratively as part of a multidisciplinary team to ensure that the transfer and continuity of care (within and across all care settings) is developed and not compromised.<br>Working collaboratively may also include keeping the patient/carer informed or prescribing under a shared care protocol/agreement.|
 | 10.2 | Establishes relationships with other professionals based on understanding, trust and respect for each other’s roles in relation to the patient’s care.|
