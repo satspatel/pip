@@ -127,3 +127,73 @@ Cockroft-Gault
 Abbreviated MDRD
 Re-repressed MDRD
 CKD-EPI
+
+## CKD
+
+Abnormal function and/or structure
+
+Diabetes and Hypertension 66%
+Immune and inherited for rest
+
+## Signs
+
+- Bruising and bleeding
+  - hepatorenal syndrome and clotting factors
+- taste, nausea and vomitting
+  - toxin accumulation
+- itching
+  - urea accumulation
+- lethargy
+  - electrolytes
+
+Dysfunction of Parathyroid hormone - Vitamin D
+
+### Causes
+
+[causes](kidneyfailurerisk.com)
+
+### Staging
+
+eGFR and Albumin Creatinine ratio
+
+### Pathophysiology
+
+Damaged tubular cells
+Cellular debris in nephron
+
+Maladaption
+
+Adaptive repair usually in AKI
+
+Maldaptive causes CKD
+
+### Diuretics in CKD
+
+- Loop diuretics
+  - reduce fluid overload
+  - correct potassium
+
+Specialist advice for combined
+
+## Dose adjustments
+
+- Reduce dose
+- Extend interval
+
+## Hyperkalaemia
+
+1. stabilise heart with Calcium gluconate - rapid acting short
+1. salbutamol, insulin
+1. clearance
+
+## Case Study
+
+Alendronate PIL warnings
+
+- Determine of CKD/AKI/general tests
+- can consider calcium and D3 instead of alendronate
+
+ACEi for HTN PIL warnings
+
+- clarify it's not Renal arterial stenosis - pre-renal
+- renoprotective - reduced proteinurea
