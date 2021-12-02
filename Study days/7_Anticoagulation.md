@@ -200,7 +200,11 @@ ESC document
 INR 2.0 is midpoint (INR 3.0 with Riva)
 
 Switch from DOAC to warfarin
+
 - mech valves
+- interactions
+- renal
+- side effects
 
 ## Bleeding risk
 
@@ -211,6 +215,16 @@ Warfarin - IV/oral vitamin K
 LMWH - Protamine
 Dabigatran - mAB - Idarucizumab £1000
 Riva/Apix/Edox - Andexanet alpha recombinant factor Xa - only severe life threatening GI bleed £17000
+
+## Cancer
+
+NICE NG158
+
+Caution in cancers with bleed risks i.e. GI cancers
+
+Riva - Select-D
+Edox - Hosukai
+Apix - Caravaggio
 
 ## Misc Facts
 
