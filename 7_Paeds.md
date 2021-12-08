@@ -41,3 +41,24 @@ Immature function at birth, incomplete glomerular development, reduced renal per
 
 ## Practical Considerations
 
+- Developmental stage
+- Formulation
+- Route
+- Compliance
+- Other conditions
+
+## Checklist
+
+- Indication
+- Dose - measurable
+- Frequency
+- Formulation availability
+- Licensing
+- Side effects
+
+Salb 1-3
+Amox 4-6
+Steroids 7-9
+
+dose route frequency
+25kg
