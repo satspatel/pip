@@ -30,7 +30,7 @@ So I can learn how to use markdown
 | 14 | Prescribing in older adults | Yes | 2/11/2021 |
 | 15 | Prescribing in pregnancy | Yes | 14/11/2021 |
 | 16 | Prescribing in breastfeeding | Yes | 3/11/2021 |
-| 17 | Dementia friendly prescribing |||
+| 17 | Dementia friendly prescribing | Yes | 8/12/2021 |
 | 18 | Respiratory medicine | Yes | 27/10/2021 |
 | 19 | Management of Pain |||
 | 20 | Rational Drug Choice |||
