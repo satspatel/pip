@@ -32,7 +32,7 @@ So I can learn how to use markdown
 | 16 | Prescribing in breastfeeding | Yes | 3/11/2021 |
 | 17 | Dementia friendly prescribing | Yes | 8/12/2021 |
 | 18 | Respiratory medicine | Yes | 27/10/2021 |
-| 19 | Management of Pain |||
+| 19 | Management of Pain | Yes | 11/12/2021 |
 | 20 | Rational Drug Choice |||
 | 21 | Ethics and Consent | Yes | 23/10/2021 |
 | 22 | Interface and Team Prescribing |||
