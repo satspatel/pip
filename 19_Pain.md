@@ -7,9 +7,9 @@
 | 30 yr male motorbike | Neuropathic<br>Nociceptive<br>Phantom<br>Psychological | Neuropathic | | |
 | Correct Statements | Paracetamol prescribed and administered at same time as ibuprofen<br>Paracetamol > 4g in 24 hrs in overweight patients<br>Paracetamol for 60kg as 40 kg<br>Paracetamol is adjunction<br>Co-codamol and paracetamol | Paracetamol and Ibuprofen | | |
 | Serious local anaesthetic poisoning caused by inadvertent IV administration | IV acetylcysteine<br>IV calcium gluconate<br>IV flumazenil<br>IV intralipid<br>IV naloxone | IV Flumazenil | | |
-| Correct statement | SSRI and long term NSAID should get PPI<br>Warfarin and NSAID should get PPI<br>COX-2 NSAIDs can be prescribed in Asthma as long as they don't exacerbate as COX-1 NSAIDs<br>NSAID analgesic in severe liver disease<br>Low dose aspirin and NSAID can be safely co-prescribed | SSRI | | |
+| Correct statement | SSRI and long term NSAID should get PPI<br>Warfarin and NSAID should get PPI<br>COX-2 NSAIDs can be prescribed in Asthma as long as they don't exacerbate as COX-1 NSAIDs<br>NSAID analgesic in severe liver disease<br>Low dose aspirin and NSAID can be safely co-prescribed | SSRI | SSRI | |
 | 12 yr girl 39kg IV paracetamol | 500mg | 500mg | | |
-| COX-1 NSAIDS have ____ (i) risk of GI vs COX-2 NSAIDs<br>COX-2 NSAIDs have been associated with an increased risk of causing ____ (ii) with long-term use | Lower; Thrombotic<br>Higher; Thrombotic<br>Lower; Oesophageal<br>Higher; Oesophageal | Higher;Thrombotic | | |
+| COX-1 NSAIDS have ____ (i) risk of GI vs COX-2 NSAIDs<br>COX-2 NSAIDs have been associated with an increased risk of causing ____ (ii) with long-term use | Lower; Thrombotic<br>Higher; Thrombotic<br>Lower; Oesophageal<br>Higher; Oesophageal | Higher;Thrombotic | Higher; Thrombotic| |
 | 50 yr man fibromyalgia. Tramadol 100mg qds Codeine 16mg qds | Tramadol 100mg qds and oramorph 5mg prn<br>Tramadol 100mg qds MST 10mg bd<br>MST 10mg bd<br>MST 20mg bd, 5mg oramorph prn<br>MST 40mg bd, 10mg oramorph prn | MST 40mg bd | | |
 |40 yr male. 40 mg/24hrs oramorph three days | MST 20mg bd<br>MST 20mg bd 5mg oramorph prn<br>Morphine immediate release 20mg bd oramorph 5mg prn<br>MST 20mg bd 15mg oramorph prn<br>MST 40mg bd 10mg oramorph prn | MST 20mg bd oramorph 5mg prn | | |
 | Lidocaine 3mg/kg 55kg IV regional anaesthesia. Lidocaine 1%. How many mls | 165mg 1g in 100ml 10mg/ml | | |
@@ -80,4 +80,41 @@
 ## WHO pain ladder step 1
 
 ### Paracetamol
+
+- Paracetamol is an effective analgesic that has antipyretic activity with no perceived peripheral anti-inflammatory properties.
+- Despite being one of the most commonly used analgesics, its true mechanism of action is still widely debated. 
+- Paracetamol can be administered orally, rectally and intravenously.  
+- It is available over-the-counter in various oral forms (tablets, capsules, soluble tablets and liquid) both alone and in combined preparations (e.g. in cold and flu remedies) for pain and pyrexia.  
+- It is well absorbed orally, reaching peak concentrations in 30‒60 minutes depending on the formulation used. 
+- Paracetamol can be effective when prescribed along-side opioid analgesia. If given regularly, it can reduce opioid requirements by 20‒30%.
+- The use of oral paracetamol in adults in combination with Patient Controlled Analgesia (PCA) can reduce overall pain scores, shorten duration of PCA use and improve patient satisfaction.
+
+### NSAIDs
+
+- NSAIDs are classified as COX-1 or COX-2 inhibitors based on their potential for inhibiting either of these isoenzymes. However in reality the extent of inhibition of COX-1 or COX-2 tends to be a relative rather than an absolute value.
+- NSAIDs which inhibit COX-1, a 'constitutive' enzyme, expressed in most tissues are thought to produce more gastrointestinal (GI) toxicity.
+- NSAIDs which have selectivity for COX-2, which is induced in inflammatory cells when 'activated', exhibit less GI toxicity.
+- COX-2 selective NSAIDS were developed in an attempt to reduce the high level of GI toxicity observed. However the picture seems to be more complicated with GI toxicity being multi-factorial. COX-2 selective NSAIDs have still been associated with serious and fatal GI adverse reactions, although generally the risk of GI adverse events seems lower with short-term use. Examples of COX-2 selective NSAIDs include celecoxib and etoricoxib.
+
+#### Toxicity
+
+| GI-related toxicity risk | NSAIDS |
+| --- | --- |
+| Lower | Ibuprofen and etoricoxib |
+| Average | Diclofenac, indometacin and naproxen |
+| Higher | Aspirin and ketorolac |
+
+#### Considerations
+
+- Assess patients requiring NSAIDs for cardiovascular and GI risk factors. Select an NSAID based on patient risk factors and local formulary recommendations.
+- Use the lowest effective dose for the shortest period of time to achieve symptom control. 
+- Consider prescribing a Proton Pump Inhibitor (PPI) for any patient who you assess to be at high risk of GI adverse effects (i.e. older adults, past history of peptic ulcer disease or GI complaints).
+- Prescribe a PPI in patients on concomitant medicines that also increase the risk of GI ulceration or bleeding (e.g selective serotonin re-uptake inhibitors, corticosteroids).
+  - Serotonin is released from platelets in response to vascular injury and promotes vasoconstriction and a change in the shape of the platelets that leads to aggregation. SSRIs inhibit the serotonin transporter, which is responsible for the uptake of serotonin into platelets. It could thus be predicted that SSRIs would deplete platelet serotonin, leading to a reduced ability to form clots and a subsequent increase in the risk of bleeding
+- Avoid concomitant administration of an NSAID with warfarin (or other oral anticoagulants); this increases the risk of bleeding more than tenfold.
+- NSAIDs can worsen the symptoms of asthma in some patients.
+- NSAIDs are contraindicated in severe liver disease as they can worsen liver function. They can increase the risk of bleeding and cause fluid retention. In severe liver disease, renal blood flow is reliant to some extent on prostacyclins, therefore the administration of NSAIDs reduces the amount of prostacyclins in the kidney, reducing renal blood flow and leading to deterioration in renal function.
+- NSAID can worsen renal function in those patients where renal function is already compromised. Avoid NSAIDs (or use with caution) in such patients (e.g. older adults and patients with cardiovascular disease). Prescribe the lowest effective dose for the shortest period of time and monitor renal function at baseline and throughout treatment.
+
+## WHO pain ladder step 2
 
