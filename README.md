@@ -33,7 +33,7 @@ So I can learn how to use markdown
 | 17 | Dementia friendly prescribing | Yes | 8/12/2021 |
 | 18 | Respiratory medicine | Yes | 27/10/2021 |
 | 19 | Management of Pain | Yes | 11/12/2021 |
-| 20 | Rational Drug Choice |||
+| 20 | Rational Drug Choice | Yes | 19/12/2021 |
 | 21 | Ethics and Consent | Yes | 23/10/2021 |
 | 22 | Interface and Team Prescribing |||
 | 23 | Prescription Documentation | Yes | 13/10/2021 |
