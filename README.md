@@ -35,7 +35,7 @@ So I can learn how to use markdown
 | 19 | Management of Pain | Yes | 11/12/2021 |
 | 20 | Rational Drug Choice | Yes | 19/12/2021 |
 | 21 | Ethics and Consent | Yes | 23/10/2021 |
-| 22 | Interface and Team Prescribing |||
+| 22 | Interface and Team Prescribing | Yes | 22/12/2021 |
 | 23 | Prescription Documentation | Yes | 13/10/2021 |
 | 24 | Evidence-Based Practice | Cancelled | --- |
 | 25 | Safe Guarding in Adult -level 1<br>(access via ELH) |||
