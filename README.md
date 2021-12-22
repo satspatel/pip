@@ -37,7 +37,7 @@ So I can learn how to use markdown
 | 21 | Ethics and Consent | Yes | 23/10/2021 |
 | 22 | Interface and Team Prescribing |||
 | 23 | Prescription Documentation | Yes | 13/10/2021 |
-| 24 | Evidence-Based Practice |||
+| 24 | Evidence-Based Practice | Cancelled | --- |
 | 25 | Safe Guarding in Adult -level 1<br>(access via ELH) |||
 | 26 | Safe Guarding in Children - level 1<br>(access via ELH) |||
 | 27 | Data Security Awareness - level 1<br>(access via ELH) |||
