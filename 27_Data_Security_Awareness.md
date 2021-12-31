@@ -156,13 +156,10 @@ legal duty to share the information:
 
 ## Good Record Keeping
 
-### Information Management Lifecycle
+- Record as events occur
+- Completeness
+- Free from duplication
+- Quick and easy to locate
+- Compliant with procedures
 
-| Phase | Good practice |
-| --- | --- |
-| Creation |
-| Use |
-| Maintenance and Management |
-| Review |
-| Retention |
-| Disposal |
+## Freedom of information
