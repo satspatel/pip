@@ -162,4 +162,79 @@ legal duty to share the information:
 - Quick and easy to locate
 - Compliant with procedures
 
-## Freedom of information
+## Freedom of information Act 2000
+
+> Provides public access to information held by public authorities:
+
+- authorities are obliged to publish certain information about their activities
+- Members of the public are entitled to request information from public authorities
+
+Anyone can ask for any information that is held by a public authority. However, this does not mean you are always obliged to provide the information. In some cases, there will be a good reason why you should not make public some or all of the information requested.
+
+### Publishing information
+
+Publication scheme is required by the authority
+
+### Making a request
+
+Duty of organisation:
+
+- To tell the applicant whether they hold any information falling within the scope of their request
+- To provide that information, unless there is a legitimate reason not to disclose (where an exemption applies)
+
+## Assessment
+
+The software and computers my ICT department uses are 100% secure: False
+
+Is is important to lock your electronic device when not using it: True
+
+Should health and care staff, who have been provided electronic devices, read the acceptable use policy: Yes
+
+Information or a combination of information that does not relate to and identify an individual, could be called which of the following terms? : Anonymous
+
+True statement:
+
+- It is not necessary to get consent every time you subsequently share someone’s personal information for the same purpose
+- ~~It is not necessary to explain how someone’s personal information will be used~~
+- ~~It is not necessary to give someone a choice about how their personal information is used~~
+- ~~It is not necessary to tell someone before their personal information is shared for the first time~~
+
+Opening attachments or clicking web links from personal email or social media accounts on work devices can increase the risk of malware being downloaded. : True
+
+You should only use your organisation’s authorised USB sticks or memory cards in work computers or mobile devices. : True
+
+Which of the following email attachments may contain something malicious which could cause a cyber incident? 
+
+- exe
+- word
+- pdf
+
+Which of the following represents an example of an incident that should be reported by you?
+
+- You receive a phishing email requesting personal information
+- Staff HR files are found in a building vacated by a care organisation
+- Some personal information is revealed in error over the telephone
+- Some paperwork containing personal information is not disposed of securely
+- Some personal information is sent by fax to the wrong recipient
+
+A data security breach occurs when one of the principles of the Data Protection Act and/or confidentiality law is breached. Which of the following is an example of a data security breach?
+
+- ~~Phishing email~~
+- ~~Denial of service attack~~
+- Lost or stolen paperwork
+
+All individuals have a right to privacy and can make requests to an organisation to access, erase (be forgotten), or rectify their data; or object to its use. An organisation must comply with this request unless they have a valid legal reason not to do so. : True
+
+Which of the following statements on the Data Protection Act 2018 and GDPR is correct?
+
+- ~~The Act only applies to patient or service user information~~
+- ~~The Act prevents information being shared for health and care purposes~~
+- ~~Individuals cannot be fined or face legal action for breaching the principles of the Act~~
+- ~~The Act only applies to personal information in digital form~~
+- Organisations can be fined or face legal action for breaching the principles of the Act
+
+Under GDPR, an individual cannot be held responsible for a data breach. : False
+
+Sharing information with the right people can be just as important as not disclosing to the wrong person.: True
+
+When an individual requests information under the Freedom of Information Act, do they have to mention the FOI Act? : No

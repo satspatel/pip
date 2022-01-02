@@ -40,6 +40,6 @@ So I can learn how to use markdown
 | 24 | Evidence-Based Practice | Cancelled | --- |
 | 25 | Safe Guarding in Adult -level 1<br>(access via ELH) | Yes | 23/12/2021 |
 | 26 | Safe Guarding in Children - level 1<br>(access via ELH) | Yes | 26/12/2021 |
-| 27 | Data Security Awareness - level 1<br>(access via ELH) |||
+| 27 | Data Security Awareness - level 1<br>(access via ELH) | Yes | 31/12/2021 |
 | 28 | Shared decision making SDM 01<br>(access via ELH) | Yes | 11/12/2021 |
 | 29 | Health Economics and Prioritisation in Public Health<br>(both packages)<br>(access via ELH) | Yes | 7/11/2021 |
