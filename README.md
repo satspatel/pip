@@ -29,8 +29,8 @@ So I can learn how to use markdown
 | 15 | [Prescribing in pregnancy](15_Prescribing_in_pregnancy.md) | Yes | 14/11/2021 |
 | 16 | [Prescribing in breastfeeding](16_prescribing_in_breastfeeding.md) | Yes | 3/11/2021 |
 | 17 | [Dementia friendly prescribing](17_Dementia_friendly.md) | Yes | 8/12/2021 |
-| 18 | [Respiratory medicine]( | Yes | 27/10/2021 |
-| 19 | [Management of Pain]( | Yes | 11/12/2021 |
+| 18 | [Respiratory medicine](18_Respiratory_Medicine.md) | Yes | 27/10/2021 |
+| 19 | [Management of Pain](19_Pain.md) | Yes | 11/12/2021 |
 | 20 | [Rational Drug Choice]() | Yes | 19/12/2021 |
 | 21 | [Ethics and Consent]() | Yes | 23/10/2021 |
 | 22 | [Interface and Team Prescribing]() | Yes | 22/12/2021 |
