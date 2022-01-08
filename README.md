@@ -13,12 +13,12 @@ So I can learn how to use markdown
 | Number | Title | Completed | Date  |
 | --- | --- | --- | --- |
 | 1 | [Fundamentals of pharmacology](01_Fundamentals_of_Pharmacology.md) | Yes | 5/10/2021 |
-| 2 | Adherence and concordance | Yes | 3/10/2021 |
-| 3 | Clinical kinetics | Yes | 3/10/2021 |
-| 4 | Dosing and Calculation | Yes | 4/10/2021 |
-| 5 | Formulation and administration | Yes | 6/10/2021 |
-| 6 | Prescribing in infection | Yes | 6/10/2021 |
-| 7 | Drug allergy and anaphylaxis | Yes | 14/10/2021 |
+| 2 | [Adherence and concordance](02_Adherence&Concordance.md) | Yes | 3/10/2021 |
+| 3 | [Clinical kinetics](03_Clinical_Kinetics.md) | Yes | 3/10/2021 |
+| 4 | [Dosing and Calculation](04_Dosing&Calcs.md) | Yes | 4/10/2021 |
+| 5 | [Formulation and administration](05_Formulation&Administration.md) | Yes | 6/10/2021 |
+| 6 | [Prescribing in infection](06_Prescribing_in_infection.md) | Yes | 6/10/2021 |
+| 7 | [Drug allergy and anaphylaxis](07_Allergy&Anaphylaxis.md) | Yes | 14/10/2021 |
 | 8 | Sepsis | Yes | 14/10/2021 |
 | 9 | Adverse drug reactions | Yes | 17/10/2021 |
 | 10 | Medication errors | Yes | 17/10/2021 |
