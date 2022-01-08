@@ -35,8 +35,8 @@ So I can learn how to use markdown
 | 21 | [Ethics and Consent](21_ethics_consent.md) | Yes | 23/10/2021 |
 | 22 | [Interface and Team Prescribing](22_Interface_and_Team_Prescribing.md) | Yes | 22/12/2021 |
 | 23 | [Prescription Documentation](23_Prescription_Documentation.md) | Yes | 13/10/2021 |
-| 24 | [Evidence-Based Practice | Cancelled | --- |
-| 25 | [Safe Guarding in Adult -level 1<br>(access via ELH)]() | Yes | 23/12/2021 |
+| 24 | Evidence-Based Practice | Cancelled | --- |
+| 25 | [Safe Guarding in Adult -level 1<br>(access via ELH)](25_Safeguarding_Adults.md) | Yes | 23/12/2021 |
 | 26 | [Safe Guarding in Children - level 1<br>(access via ELH)]() | Yes | 26/12/2021 |
 | 27 | [Data Security Awareness - level 1<br>(access via ELH)]() | Yes | 31/12/2021 |
 | 28 | [Shared decision making SDM 01<br>(access via ELH)]() | Yes | 11/12/2021 |
