@@ -2,9 +2,7 @@
 
 Just some markdown notes of the e-learning as I go along
 
-## To-do
-
-- [ ] Get references on first 10 e-learnings completed
+Disclaimer: Not to be used to guide clinical decisions
 
 ## Why?
 
@@ -14,7 +12,7 @@ So I can learn how to use markdown
 
 | Number | Title | Completed | Date  |
 | --- | --- | --- | --- |
-| 1 | Fundamentals of pharmacology | Yes | 5/10/2021 |
+| 1 | [Fundamentals of pharmacology](01_Fundamentals of Pharmacology.md) | Yes | 5/10/2021 |
 | 2 | Adherence and concordance | Yes | 3/10/2021 |
 | 3 | Clinical kinetics | Yes | 3/10/2021 |
 | 4 | Dosing and Calculation | Yes | 4/10/2021 |
