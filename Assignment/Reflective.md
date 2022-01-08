@@ -6,9 +6,11 @@
 - [ ] look at case reports for examples
 - [ ] academic interviews in November
 - [ ] huddersfield APA referencing sheet
-- [ ] contemporaenously research
+- [ ] contemporaneously research
 
-- you have asssessed patient not been a bystander
+- [ ] talk about DNA repair issues associated with Ovarian cancers - BRCA mutations potentially
+
+- you have assessed patient not been a bystander
 - 30 - 40 references (need to look at primary data)!!
 
 - what did you do, why did you do it, how did you do it
