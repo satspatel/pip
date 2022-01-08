@@ -19,11 +19,11 @@ So I can learn how to use markdown
 | 5 | [Formulation and administration](05_Formulation&Administration.md) | Yes | 6/10/2021 |
 | 6 | [Prescribing in infection](06_Prescribing_in_infection.md) | Yes | 6/10/2021 |
 | 7 | [Drug allergy and anaphylaxis](07_Allergy&Anaphylaxis.md) | Yes | 14/10/2021 |
-| 8 | Sepsis | Yes | 14/10/2021 |
-| 9 | Adverse drug reactions | Yes | 17/10/2021 |
-| 10 | Medication errors | Yes | 17/10/2021 |
-| 11 | Monitoring drug therapy | Yes | 24/10/2021 |
-| 12 | Drug interactions | Yes | 23/10/2021 |
+| 8 | [Sepsis](08_Sepsis.md) | Yes | 14/10/2021 |
+| 9 | [Adverse drug reactions](09_Adverse_Drug_Reactions.md) | Yes | 17/10/2021 |
+| 10 | [Medication errors](10_medication_errors.md) | Yes | 17/10/2021 |
+| 11 | [Monitoring drug therapy](11_Drug_Monitoring.md) | Yes | 24/10/2021 |
+| 12 | [Drug interactions](12_Interactions.md) | Yes | 23/10/2021 |
 | 13 | Prescribing in hepatic dysfunction | Yes | 24/10/2021 |
 | 14 | Prescribing in older adults | Yes | 2/11/2021 |
 | 15 | Prescribing in pregnancy | Yes | 14/11/2021 |
