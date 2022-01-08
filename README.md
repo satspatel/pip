@@ -26,7 +26,7 @@ So I can learn how to use markdown
 | 12 | [Drug interactions](12_Interactions.md) | Yes | 23/10/2021 |
 | 13 | [Prescribing in hepatic dysfunction](13_Hepatic_Dysfunction.md) | Yes | 24/10/2021 |
 | 14 | [Prescribing in older adults](14_Prescribing_in_older_adults.md) | Yes | 2/11/2021 |
-| 15 | [Prescribing in pregnancy | Yes | 14/11/2021 |
+| 15 | [Prescribing in pregnancy](15_Prescribing_in_pregnancy.md) | Yes | 14/11/2021 |
 | 16 | [Prescribing in breastfeeding | Yes | 3/11/2021 |
 | 17 | [Dementia friendly prescribing | Yes | 8/12/2021 |
 | 18 | [Respiratory medicine | Yes | 27/10/2021 |
