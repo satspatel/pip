@@ -33,8 +33,8 @@ So I can learn how to use markdown
 | 19 | [Management of Pain](19_Pain.md) | Yes | 11/12/2021 |
 | 20 | [Rational Drug Choice](20_Rational_Drug_Choice.md) | Yes | 19/12/2021 |
 | 21 | [Ethics and Consent](21_ethics_consent.md) | Yes | 23/10/2021 |
-| 22 | [Interface and Team Prescribing]() | Yes | 22/12/2021 |
-| 23 | [Prescription Documentation]() | Yes | 13/10/2021 |
+| 22 | [Interface and Team Prescribing](22_Interface_and_Team_Prescribing.md) | Yes | 22/12/2021 |
+| 23 | [Prescription Documentation](23_Prescription_Documentation.md) | Yes | 13/10/2021 |
 | 24 | [Evidence-Based Practice | Cancelled | --- |
 | 25 | [Safe Guarding in Adult -level 1<br>(access via ELH)]() | Yes | 23/12/2021 |
 | 26 | [Safe Guarding in Children - level 1<br>(access via ELH)]() | Yes | 26/12/2021 |
