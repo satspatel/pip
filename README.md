@@ -12,7 +12,7 @@ So I can learn how to use markdown
 
 | Number | Title | Completed | Date  |
 | --- | --- | --- | --- |
-| 1 | [Fundamentals of pharmacology](01_Fundamentals of Pharmacology.md) | Yes | 5/10/2021 |
+| 1 | [Fundamentals of pharmacology](/01_Fundamentals of Pharmacology.md) | Yes | 5/10/2021 |
 | 2 | Adherence and concordance | Yes | 3/10/2021 |
 | 3 | Clinical kinetics | Yes | 3/10/2021 |
 | 4 | Dosing and Calculation | Yes | 4/10/2021 |
