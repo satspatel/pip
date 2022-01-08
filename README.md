@@ -37,8 +37,7 @@ So I can learn how to use markdown
 | 23 | [Prescription Documentation](23_Prescription_Documentation.md) | Yes | 13/10/2021 |
 | 24 | Evidence-Based Practice | Cancelled | --- |
 | 25 | [Safe Guarding in Adult -level 1<br>(access via ELH)](25_Safeguarding_Adults.md) | Yes | 23/12/2021 |
-| 26 | [Safe Guarding in Children - level 1<br>(access via ELH)]() | Yes | 26/12/2021 |
-| 27 | [Data Security Awareness - level 1<br>(access via ELH)]() | Yes | 31/12/2021 |
-| 28 | [Shared decision making SDM 01<br>(access via ELH)]() | Yes | 11/12/2021 |
-| 29 | [Health Economics and Prioritisation in Public Health<br>(both packages)<br>(access via ELH)]() | Yes | 7/11/2021 |
-[
+| 26 | [Safe Guarding in Children - level 1<br>(access via ELH)](26_Safe_Guarding_Children.md) | Yes | 26/12/2021 |
+| 27 | [Data Security Awareness - level 1<br>(access via ELH)](27_Data_Security_Awareness.md) | Yes | 31/12/2021 |
+| 28 | [Shared decision making SDM 01<br>(access via ELH)](28_Shared_Decision_Making.md) | Yes | 11/12/2021 |
+| 29 | [Health Economics and Prioritisation in Public Health<br>(both packages)<br>(access via ELH)](29_Health_Economic_Evaluations.md)<br>[Package 2](29a_Introduction to Health_Economics.md) | Yes | 7/11/2021 |
