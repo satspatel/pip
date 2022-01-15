@@ -41,25 +41,24 @@ Improving community health public health powerpoint
 
 ### Cha2ds2vasc 
 
-Chronic heart failure
-Hypertension
-Age > 75 x 2
-2
-Diabetes
-Stroke x 2
-Vascular MI, PAD
-Age 65
-Sex Female
+- Chronic heart failure
+- Hypertension
+- Age > 75 x 2
+- Diabetes
+- Stroke x 2
+- Vascular MI, PAD
+- Age 65
+- Sex Female
 
 ### HASBLED
 
-Hypertension
-Abnormal Renal/Hepatic
-Stroke
-Bleeding predisposition
-Labile INR
-Elderly 65
-Drugs
+- Hypertension
+- Abnormal Renal/Hepatic
+- Stroke
+- Bleeding predisposition
+- Labile INR
+- Elderly 65
+- Drugs
 
 ## Clinical governance
 
