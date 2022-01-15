@@ -2,6 +2,19 @@
 
 - Stuff that isn't in the BNF online
 
+## Prescribing Competency Framework
+
+1. Assess the patient
+1. Identify evidence-based treatment options available for clinical decision making
+1. Present options and reach a shared decision
+1. Prescribe
+1. Provide information
+1. Monitor and review
+1. Prescribe safely
+1. Prescribe professionally
+1. Improve prescribing practice
+1. Prescribe as part of a team
+
 ## Public health
 
 ## Caldicott principles
