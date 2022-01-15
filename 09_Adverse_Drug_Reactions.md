@@ -49,7 +49,7 @@
 | B | Bizarre | Not dose-related (within the therapeutic dose range)<br>Uncommon, unpredictable<br>Not related to the pharmacology<br>Often fatal | Penicillin hypersensitivity<br>Malignant hyperthermia and hepatitis caused by anaesthetic agents |
 | C | Chronic | Uncommon<br>Related to cumulative dose<br>Time-related | Suppression to the hypothalamic pituitary adrenal axis with long-term corticosteroids |
 | D | Delayed | Uncommon<br>Usually dose-related<br>Occurs or becomes apparent some time after use of the drug | Carginogenesis |
-| E | End of Treatment | Uncommon<br>Occurs soon after withdrawl of the drug | Opioid withdrawal |
+| E | End of Treatment | Uncommon<br>Occurs soon after withdrawal of the drug | Opioid withdrawal |
 | F | Failure | Common<br>Dose-related<br>Often caused by drug interactions | Failure of the oral contraceptive in the presence of an enzyme inducer<br>Failure of therapeutic effect in patients taking anticoagulants leading to stroke |
 
 ## DoTS
