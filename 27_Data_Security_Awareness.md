@@ -90,7 +90,7 @@ Avoid by:
 - apply core data protection, security, records management and confidentiality principles in your day to day processing of data
 - Use relevant best practice guidance
 
-### Data Security
+### Aspects of Data Security
 
 | Area | Details |
 | --- | --- |
@@ -118,7 +118,7 @@ Avoid by:
 | Justify the purpose | Every proposed use/transfer needs to be defined, scrutinised and documented |
 | Do not use unless absolutely necessary | Specific purpose needs to be justified<br>Including need to identify individuals involved |
 | Use the minimum necessary | Only enough to achieve the necessary purpose |
-| Access to confidential should be on strict need-to-know basis | Aceess controls/splitting information flows |
+| Access to confidential should be on strict need-to-know basis | Access controls/splitting information flows |
 | Awareness of responsibilities | Action to ensure that all those handling understand responsibilities and obligations to respect confidentiality of the patient and users |
 | Legal compliance | All use must be lawful |
 | Duty to share is as important as duty to protect | Policies of employers/regulators/professional bodies |
@@ -147,7 +147,7 @@ legal duty to share the information:
 | Staff responsibilities | Staff understand roles to avoid deliberate and avoidable breaches |
 | Training | Annual date security training and e-learning |
 | Managing access | Only accessible to those that need it<br>Access granted and revoked as necessary |
-| Process review | Review to identify and improve processes that have aused breaches or near misses or force workarounds |
+| Process review | Review to identify and improve processes that have caused breaches or near misses or force workarounds |
 | Responding to incidents | Cyber attacks and breaches with reports within 12 hours of detection |
 | Continuity planning | Plans to respond to threats/breaches<br>Annual testing |
 | Unsupported systems | Only used supported IT systems |

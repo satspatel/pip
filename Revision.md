@@ -1,12 +1,18 @@
+# Basic AF Revision Notes
+
+- Stuff that isn't in the BNF online
+
+## Public health
+
 ## Caldicott principles
 
-1. Justify
+1. Justify - purpose of the confidential information
 2. Only when necessary
 3. Use minimum necessary
 4. Limit access to need-to-know
 5. Those with access aware of responsibilities
 6. Use lawfully
-7. Responsibility to share is equal to responsibility not-to-share
+7. Responsibility to share is equal to responsibility to protect
 8. Inform patients/service users how information being used
 
 ## Beachamp and Childress principles
@@ -17,8 +23,6 @@
 1. Justice and Veracity
 
 ## Medication reactions
-
-## Types a or b
 
 | Type | Name | Features | Example |
 | --- | --- | --- | --- |
@@ -107,29 +111,50 @@ Red Flags
 - No urine in 18 hours
 - Immunosuppression - recent chemo
 
+## Freedom of information act
 
-Freedom of information act – how many days to give a response
+- Enacted 2000
+- 20 working days
+- can ask for extensions
+- can refuse if it will cost >£600
 
- 
+## Data Protection Act
 
-Dementia different types
+- Enacted 2018
+- Replaced the 1998 one
 
- 
+### Principles
 
-MCA if you want to assess capacity
+1. Processing lawful and fair
+1. Purposes of processing specified, explicit and legitimate
+1. Data adequate, relevant and not excessive
+1. Data accurate and kept up to date
+1. Kept no longer than necessary
+1. Processed in secure manner
 
- 
+## Mental Capacity Act 2005
 
-Gram positive and gram negative
+### Principles 
 
- 
+1. Assumed to have capacity unless established they lack capacity
+1. Treated to be able to make a decision unless all practicable steps to help have been taken without success
+1. Making an unwise decision does not indicated lack of capacity
+1. Decisions made under the Act must be done in the persons best interests
+1. Intervention chosen needs to be, as possible, less restrictive to rights and freedoms 
 
-Know you antibiotic indications
+### Capacity Assessment
 
- 
+A person is unable to make a decision for themselves if they are **unable** to:
 
-Common, uncommon, reactions
+- understand the information relevant to the decision (in a form suitable for them)
+- retain that information for the time required to make the decision
+- use that information as part of the process of making the decision
+  - or communicate their decision
 
- 
+## In BNF
 
-Yellow card scheme
+- Dementia different types
+- Gram positive and gram negative
+- Know you antibiotic indications
+- Common, uncommon, reactions
+- Yellow card scheme
