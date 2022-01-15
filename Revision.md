@@ -17,6 +17,46 @@
 
 ## Public health
 
+### Three Ps
+
+- Prevention: reducing the incidence of ill health supporting healthier lifestyle
+- Protection: surveillance and monitoring of infectious disease, emergency response and immunisation
+- Promotion: health education and commissioning services to meet specific health needs.
+
+#### Prevention
+
+| Level | Target | Methods |
+| --- | --- | --- |
+| Primary | Well Population | Health promotion<br>Addressing risk factors, social and genetic factors |
+| Secondary | Those at risk of an illness | Screening<br>Control of risk factors<br>Early interventions |
+| Tertiary | Those with the illness | Rehabilitation<br>Preventing Complications<br>Improving Quality of Life |
+
+
+### Health Needs Assessment
+
+> Systematic review of health issues facing a population leading to agreed priorities and resource allocation that will improve health and reduce inequalities
+
+#### Principles
+
+1. Improve what will have highest gain
+1. Integrate improvement into current services
+1. Involve all parties
+
+#### Priorities
+
+1. Highest Impact
+1. Changeability - is change possible
+1. Acceptability
+1. Resource feasibility
+
+### Upstream
+
+- prevention
+
+### Downstream
+
+- acute admission
+
 ## Caldicott principles
 
 1. Justify - purpose of the confidential information
