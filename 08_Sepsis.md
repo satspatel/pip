@@ -63,7 +63,7 @@ ACVPU: Alert Confusion Voice Pain Unresponsive
 - Respiratory rate 21-24 breaths per minute
 - Systolic blood pressure 91-100 mmHg
 - Heart rate 91-130 or new dysrhythmia
-- Temperature < 36°C
+- Temperature > 36°C
 - Clinical signs of wound infection
 
 #### Effect of underlying conditions
