@@ -150,7 +150,7 @@ Improving community health public health powerpoint
 | Classification | Explanation | Example |
 | --- | --- | --- |
 | Mistake | Error in formulating a plan of action<br>Action was executed correctly but the plan was wrong | Prescribing verapamil even though patient on a beta-blocker, unknowing of interaction |
-| Slip | One or more step is executed incorrectly | Promazine vs Promethazine |
+| Slip | One or more step is executed incorrectly | Promazine vs PromETHazine |
 | Lapse | One or more step is omitted | Distracted and forgetting to do something |
 | Violations | Deliberate - although perhaps not reprehensible - deviation from regulated codes of practices or procedures | Writing brand name instead of generic |
 
