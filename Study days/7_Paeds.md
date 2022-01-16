@@ -12,7 +12,7 @@
 | Gastric | Immature mucosa<br>Less acid pH 6-8<br>Slower emptying 6-8 hours<br>Shorter gut<br>Less Bile | Preferential for weakly acidic drugs<br>Gastric Absorption<br>Less Absorption<br>Less able to absorb fat soluble substances |
 | Skin | Increased surface area<br>Well perfused<br>Good Absorption | Overdose of topical antiseptics so wash off |
 | Lungs | Some receptors not developed in infants<br>Continued development after birth | beta agonists work later on |
-| Rectal | Good blood supply | Good in vomitting |
+| Rectal | Good blood supply | Good in vomiting |
 | IM | Smaller muscles<br>pain due to volume | Split large doses |
 
 ## Distribution

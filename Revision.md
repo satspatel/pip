@@ -15,6 +15,8 @@
 1. Improve prescribing practice
 1. Prescribe as part of a team
 
+## Adherence
+
 ## Public health
 
 ### Three Ps
@@ -28,7 +30,7 @@
 | Where in stream | Level | Target | Methods |
 | --- | --- | --- | --- |
 | Upstream | Primary | Well Population | Health promotion<br>Addressing risk factors, social and genetic factors |
-|| Secondary | Those at risk of an illness | Screening<br>Control of risk factors<br>Early interventions |
+| Midstream | Secondary | Those at risk of an illness | Screening<br>Control of risk factors<br>Early interventions |
 | Downstream | Tertiary | Those with the illness | Rehabilitation<br>Preventing Complications<br>Improving Quality of Life |
 
 
@@ -140,6 +142,24 @@ Improving community health public health powerpoint
 1. Increase patient involvement
 1. Understand patient perspective
 1. Provide information
+1. Review medications
+1. Simplify dosing regimens
+
+## Errors
+
+| Classification | Explanation | Example |
+| --- | --- | --- |
+| Mistake | Error in formulating a plan of action<br>Action was executed correctly but the plan was wrong | Prescribing verapamil even though patient on a beta-blocker, unknowing of interaction |
+| Slip | One or more step is executed incorrectly | Promazine vs Promethazine |
+| Lapse | One or more step is omitted | Distracted and forgetting to do something |
+| Violations | Deliberate - although perhaps not reprehensible - deviation from regulated codes of practices or procedures | Writing brand name instead of generic |
+
+### Mistakes
+
+|Action|Description|
+| --- | --- |
+| Knowledge-based | Require conscious analytic processes and stored knowledge in novel or unfamiliar situations where low-level rules are not appropriate. They refer to what is typically thought of as 'analytic thought'. |
+| Rule-based | Involve the conscious application of specific rules to familiar situations.|
 
 ## Sepsis
 
@@ -185,6 +205,14 @@ Red Flags
 1. Data accurate and kept up to date
 1. Kept no longer than necessary
 1. Processed in secure manner
+
+Lawfulness, fairness and transparency
+Purpose limitation
+Data minimisation
+Accuracy
+Storage limitation
+Integrity and confidentiality (security)
+Accountability
 
 ## Mental Capacity Act 2005
 

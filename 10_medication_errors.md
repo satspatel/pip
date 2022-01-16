@@ -52,7 +52,7 @@
 | Mistake | Error in formulating a plan of action<br>Action was executed correctly but the plan was wrong | Prescribing verapamil even though patient on a beta-blocker, unknowing of interaction |
 | Slip | One or more step is executed incorrectly | Promazine vs Promethazine |
 | Lapse | One or more step is omitted | Distracted and forgetting to do something |
-| Violations | Reliberate - although perhaps not reprehensible - deviation from regulated codes of practices or procedures | Writing brand name instead of generic |
+| Violations | Deliberate - although perhaps not reprehensible - deviation from regulated codes of practices or procedures | Writing brand name instead of generic |
 
 ### Mistakes
 
@@ -69,6 +69,3 @@
 | --- | --- | --- |
 | Active failures | Unsafe acts or omissions that are as a result of error or violations | Confusing similar sounding drug names (e.g. prescribing clotrimazole instead of co-trimoxazole)<br>Intending to prescribe a dose of 100 mg but writing 200 mg instead |
 | Latent conditions | Provide the error-producing conditions in which unsafe acts occur and can create long-lasting holes or weaknesses in the defences.<br>They may lie dormant in a system for some time before they are combined with active failures to create an opportunity for error. | Workload<br>Staffing levels<br>Lack of training or supervision<br>Communication problems between healthcare staff<br>Deficiencies in the design of technology |
-
-## Medication Safety
-
