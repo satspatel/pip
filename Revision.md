@@ -25,11 +25,11 @@
 
 #### Prevention
 
-| Level | Target | Methods |
-| --- | --- | --- |
-| Primary | Well Population | Health promotion<br>Addressing risk factors, social and genetic factors |
-| Secondary | Those at risk of an illness | Screening<br>Control of risk factors<br>Early interventions |
-| Tertiary | Those with the illness | Rehabilitation<br>Preventing Complications<br>Improving Quality of Life |
+| Where in stream | Level | Target | Methods |
+| --- | --- | --- | --- |
+| Upstream | Primary | Well Population | Health promotion<br>Addressing risk factors, social and genetic factors |
+|| Secondary | Those at risk of an illness | Screening<br>Control of risk factors<br>Early interventions |
+| Downstream | Tertiary | Those with the illness | Rehabilitation<br>Preventing Complications<br>Improving Quality of Life |
 
 
 ### Health Needs Assessment
