@@ -156,7 +156,7 @@ Improving community health public health powerpoint
 
 ### Mistakes
 
-|Action|Description|
+| Action | Description |
 | --- | --- |
 | Knowledge-based | Require conscious analytic processes and stored knowledge in novel or unfamiliar situations where low-level rules are not appropriate. They refer to what is typically thought of as 'analytic thought'. |
 | Rule-based | Involve the conscious application of specific rules to familiar situations.|
