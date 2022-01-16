@@ -17,23 +17,20 @@
 
 ## Distribution
 
-Bilirubin production increased due to increased red cell turnover.
+| Factor | Impact |
+| --- | --- |
+| Greater Total body water | Higher volume of distribution of water soluble so less apparent concentration<br>80% Prem<br>70% Neonate<br>60% Adult<br>55% elderly |
+| Reduced Plasma Production<br>Bilirubin competition for plasma binding  | Increased free drug to exert effect<br>Exacerbation of jaundice |
+| Altered organ perfusion, acid base balance | Depends on Drug |
 
 ## Metabolism
 
-Phase 1 pathway
+Enzyme pathways take time to mature - Reaches adult levels in 6-30 months
 
-- Oxidation - CYP450
-
-Enzyme pathways take time to mature
-
-Phase 2 pathway
-
-- Glucuronidation
-
-Reaches adult levels in 6-30 months
-
-- Sulphation no differences
+| Pathway | Impact |
+| --- | --- |
+| Phase 1 | - Oxidation - CYP450 |
+| Phase 2 | Glucuronidation |
 
 ## Elimination
 
