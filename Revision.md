@@ -175,7 +175,7 @@ Improving community health public health powerpoint
 ### Signs of sepsis
 
 Red Flags
-- Low BP < 90>
+- Low BP < 90
 - Increased resp rate >25
 - Increased heart rate >130
 - Temp > 38
@@ -197,22 +197,15 @@ Red Flags
 - Enacted 2018
 - Replaced the 1998 one
 
-### Principles
+### Principles of GDPR
 
-1. Processing lawful and fair
+1. Processing lawful, fair and transparent
 1. Purposes of processing specified, explicit and legitimate
 1. Data adequate, relevant and not excessive
 1. Data accurate and kept up to date
 1. Kept no longer than necessary
 1. Processed in secure manner
-
-Lawfulness, fairness and transparency
-Purpose limitation
-Data minimisation
-Accuracy
-Storage limitation
-Integrity and confidentiality (security)
-Accountability
+1. Accounted for – compliance with legislation
 
 ## Mental Capacity Act 2005
 
@@ -231,7 +224,7 @@ A person is unable to make a decision for themselves if they are **unable** to:
 - understand the information relevant to the decision (in a form suitable for them)
 - retain that information for the time required to make the decision
 - use that information as part of the process of making the decision
-  - or communicate their decision
+- communicate their decision (non-verbal including blinking ok)
 
 ## In BNF
 
