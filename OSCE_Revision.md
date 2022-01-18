@@ -20,27 +20,26 @@
 
 ## Diabetes
 
-| Drug/Class | C/Is | Likely interactions |
-| --- | --- | --- |
-| Metformin | Renal impairment |  |
-| Gliclazide | Hypos |  |
-| Sitagliptin |  |  |
-| Pioglitazone | Bladder Cancer |  |
+| Drug/Class | C/Is/Cautions | Preg | Likely interactions |
+| --- | --- | --- | --- |
+| Metformin | Acute metabolic acidosis | No issues | |
+| Gliclazide | Ketoacidosis<br>Risk of Hypos | Risk of neonatal hypos | |
+| Sitagliptin | Ketoacidosis | Avoid | |
+| Pioglitazone | Bladder Cancer<br>Heart failure<br>Macroscopic Haematuria | Avoid | |
 
 ## Hypertension
 
-| Drug/Class | C/Is | Likely interactions |
-| --- | --- | --- |
-| ACEi | Age/Afro-carribean? | |
-| ARBs | | Age |
-| Calcium channel blocker | | |
-| Beta-blocker | Asthma | |
-| Diuretic - Thiazide like | ?Gout | |
+| Drug/Class | C/Is | Preg | Likely interactions |
+| --- | --- | --- | --- |
+| ACEi/ARBS<br>Ramipril | Age<br>Afro-caribbean<br>Angioedema | Avoid unless essential | |
+| Calcium channel blocker<br>Amlodipine | Unstable angina<br>Aortic Stenosis<br>Cardiogenic Shock | Manf says avoid - unless critical to managing HTN | |
+| Beta-blocker<br>Bisoprolol | Asthma<br>Peripheral Arterial Disease<br>Uncontrolled heart failure<br>AV blocks | Can cause growth restriction<br>Labetalol usually used | ?Digoxin |
+| Diuretic - Thiazide like<br>Indapamide | Addisons<br>?Gout | Avoid | |
 
 ## Anticoagulation
 
-| Drug/Class | C/I | Likely interactions |
-| --- | --- | --- |
-| LMWH | ?Needlephobia | |
-| DOAC | Pregnancy | Most things |
-| Warfarin + LMWH bridge | Pregnancy | Might be able to manage|
+| Drug/Class | C/I | Preg | Likely interactions |
+| --- | --- | --- | --- |
+| LMWH | ?Needlephobia | Preferred option | |
+| DOAC | Pregnancy | Avoid | Most things |
+| Warfarin + LMWH bridge | Pregnancy | No<br>Avoid in first and third trimesters | Might be able to manage |
