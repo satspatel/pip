@@ -31,16 +31,16 @@
 
 | Drug/Class | C/Is | Likely interactions |
 | --- | --- | --- |
-| ACEi | | |
-| ARBs | | |
+| ACEi | Age/Afro-carribean? | |
+| ARBs | | Age |
 | Calcium channel blocker | | |
-| Beta-blocker | | |
-| Diuretic - Thiazide like | | |
+| Beta-blocker | Asthma | |
+| Diuretic - Thiazide like | ?Gout | |
 
 ## Anticoagulation
 
 | Drug/Class | C/I | Likely interactions |
 | --- | --- | --- |
-| LMWH | | |
-| DOAC | | |
-| Warfarin + LMWH bridge | | |
+| LMWH | ?Needlephobia | |
+| DOAC | Pregnancy | Most things |
+| Warfarin + LMWH bridge | Pregnancy | Might be able to manage|
